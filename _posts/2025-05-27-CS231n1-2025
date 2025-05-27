@@ -1,0 +1,20 @@
+---
+layout:     post   				    # 使用的布局（不需要改）
+title:      CS231n：1 图像分类问题介绍 				# 标题 
+subtitle:   Good good study, day day up #副标题
+date:       2025-05-27 				# 时间
+author:     Meow 						# 作者
+header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+catalog: true 						# 是否归档
+tags:								#标签
+    - 机器学习
+    - 计算机视觉
+---
+
+## CCS231n 第一节：图像分类问题
+> 这是自学cv的记录
+[课程网站](https://cs231n.github.io/classification/)
+
+学习分享基于**斯坦福李飞飞老师cs231n计算机视觉课程**  
+
+[阅读材料](https://cs231n.github.io/classification/) 
