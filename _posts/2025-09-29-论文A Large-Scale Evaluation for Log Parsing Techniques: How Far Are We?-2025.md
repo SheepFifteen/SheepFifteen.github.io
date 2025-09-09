@@ -10,9 +10,9 @@ tags:								#标签
     - 日志解析
 ---
 
-[2024]A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?
+## [2024]A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?
 
-论文：<<A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?>>
+>论文：<<A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We?>>
 
 下载地址：[paper](https://arxiv.org/abs/2308.10828)
 
