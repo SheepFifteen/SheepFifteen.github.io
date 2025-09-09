@@ -1,6 +1,6 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      A Large-Scale Evaluation for Log Parsing Techniques: How Far Are We? 				# 标题 
+title:      A Large-Scale Evaluation for Log Parsing Techniques How Far Are We 				# 标题 
 subtitle:   Good good study, day day up #副标题
 date:       2025-09-9				# 时间
 author:     Meow 						# 作者
